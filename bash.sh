@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /home/ubuntu
 echo '''-----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEApc3s1WzBJu1U6I9enS0HOkIVDOGw3CDrSD6eY41jSNAhoiFs
 IpRIfqN8Xttj2Xk59CBPkpVq2skpTcOVZqC6PkaYKlY6u3z8FF+zptAWK0bE42y5
@@ -26,3 +27,4 @@ JncEEQKBgQCuKuHlxlzmfpCGcZ67WR6sGNVv4DTCTqsZi0+zVEXYUSeOiMy4/oR9
 HDo4XqsQoft941wDBMu8dtCyEyXzcn4XcUNxp0UG4BtxrhS6Qr9IYG5zAp2ZdA9J
 QFpkSA10BEu/MZNKBmYr4xbGXBjz07p0Zy6z8gO7xeJctfhCXz5GRA==
 -----END RSA PRIVATE KEY-----''' >> test-st.pem
+sudo chmod 400 /home/ubuntu/test-st.pem
