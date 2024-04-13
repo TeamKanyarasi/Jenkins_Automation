@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo rm test-st.pem
 echo '''-----BEGIN RSA PRIVATE KEY-----
 MIIEowIBAAKCAQEAgCZgeKqGeg/IOzVV1HqniUAtRSt9S17Ud42/nVlErMJy40AC
 yQnQZMysZMKCpZxQcxtjygTxte3ZzSSw+0nFQrHb/17zltX7yj0Kus8sIiQBGkZh
