@@ -1,5 +1,4 @@
 #!/bin/bash
-cd /home/ubuntu
 echo '''-----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEApc3s1WzBJu1U6I9enS0HOkIVDOGw3CDrSD6eY41jSNAhoiFs
 IpRIfqN8Xttj2Xk59CBPkpVq2skpTcOVZqC6PkaYKlY6u3z8FF+zptAWK0bE42y5
