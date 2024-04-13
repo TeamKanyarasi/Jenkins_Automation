@@ -26,4 +26,4 @@ zLn3AoGBAKxzrO+VxdUgJJSD0pT4yBbNe5Xj6eUuVvlmAxJgVJYYY6NDQVQi+tsF
 HjmOSQ9R8oEfspva+Kwd8XTV9rxDVNyz+2JnoXT/2skxPZgn9dsEw1+jpJkql9ab
 Hr7c6StUHjtKnnxp0A/TVFRDzffVtrYQsGTFqa/tXSrCqu2idmyw
 -----END RSA PRIVATE KEY-----''' >> test-st.pem
-chmod 400 /var/lib/jenkins/workspace/ansibletest-st.pem
+chmod 400 /var/lib/jenkins/workspace/ansible/test-st.pem
